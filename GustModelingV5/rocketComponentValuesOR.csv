@@ -1,0 +1,45 @@
+﻿Component,Instance Mass (g),Aggregate Mass (g),Aggregate CG Location (cm),CP (cm),Normal Force Coefficient
+Total (Rocket),38922.32008,38922.32008,230.2505204,273.9054751,8.253090463
+Nose cone,4337.703834,4337.703834,82.8991,52.45879587,2
+Drogue Can,517.6715833,517.6715833,89.0397,0,0
+Shock Cord,544.3107732,544.3107732,74.4147,0,0
+Metal Nose Cone Tip,240,240,4.92125,0,0
+threaded rod,163,163,9.652,0,0
+drogue Parachute,188.257844,188.257844,88.9,0,0
+arc clamp system,97.567,97.567,213.1949,0,0
+ERS Micromodule Attached to Nose Cone,2048.423143,2048.423143,109.5967,0,0
+arc clamp system,97.567,97.567,225.2091,0,0
+ERS Mechanism,0,0,106.9147,0,0
+Main Can Isogrid Module,6476.845451,6476.845451,133.0667,0,0
+Main Can Nylon,228.556,228.556,267.77696,0,0
+Main Shock cord,5.39496,5.39496,118.1789,0,0
+Main Parachute,1110.968176,1110.968176,134.4295,0,0
+arc clamp system,97.6,97.6,305.8541,0,0
+ERS Micromodule Attched to Main,2046.155181,2046.155181,154,0,0
+arc clamp system,97.6,97.6,322.9483,0,0
+ERS Mechanism,0,0,151.3139,0,0
+Camera Passthrough Micromodules,3089.871224,3089.871224,171.6635,0,0
+Bulkhead,141,141,161.9996,0,0
+Argus Camera System,572.6603666,572.6603666,164.5031,0,0
+Bulkhead,141,141,169.9771,0,0
+midsection arc clamp system,97.6,97.6,170.5481,0,0
+Bulkhead,141,141,171.1191,0,0
+"Umbilical Internals cameras, battery, board, wires, battery case",195.6117094,195.6117094,173.6951,0,0
+Bulkhead,141,141,179.0966,0,0
+arc clamp system,97.6,97.6,179.7681,0,0
+Avionics Module (Third),2031.186633,2031.186633,214.7833,0,0
+Bulkhead,141,141,318.9347,0,0
+avionics guts wooden frame and 3d printed spacer,226.796185,226.796185,210.5021,0,0
+Bulkhead,141.1,141.1,377.2309,0,0
+arc clamp system,97.6,97.6,240.9313,0,0
+FG Body (second) Module,1549.471536,1549.471536,269.2298,0,0
+Bulkhead,141.1,141.1,242.3648,0,0
+arc clamp system,97.6,97.6,302.1453,0,0
+threaded rod,163,163,258.7113,0,0
+nuts & washer,45.359237,45.359237,242.1813,0,0
+Fin Can Module,3764.363079,3764.363079,348.2037,0,0
+Motor Centering Ring,156.5881285,156.5881285,378.20179,0,0
+Trapezoidal fin module,1147.233,1147.233,326.17878,344.7333899,6.253090463
+arc clamp system,97.6,97.6,378.83298,0,0
+Thrust Flange,270.3,270.3,379.29248,0,0
+15227N2501-P,13308,13308,330.906,0,0

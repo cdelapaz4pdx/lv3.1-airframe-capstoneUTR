@@ -1,0 +1,42 @@
+Component,Mass_kg,Xcg_m_from_nose
+"Nose cone",4.337703834,0.828991
+"Drogue Can",0.5176715833,0.890397
+"Shock Cord",0.5443107732,0.744147
+"Metal Nose Cone Tip",0.24,0.0492125
+"threaded rod",0.163,0.09652
+"drogue Parachute",0.188257844,0.889
+"arc clamp system",0.097567,2.131949
+"ERS Micromodule Attached to Nose Cone",2.048423143,1.095967
+"arc clamp system",0.097567,2.252091
+"Main Can Isogrid Module",6.476845451,1.330667
+"Main Can Nylon",0.228556,2.6777696
+"Main Shock cord",0.00539496,1.181789
+"Main Parachute",1.110968176,1.344295
+"arc clamp system",0.0976,3.058541
+"ERS Micromodule Attched to Main",2.046155181,1.54
+"arc clamp system",0.0976,3.229483
+"Camera Passthrough Micromodules",3.089871224,1.716635
+"Bulkhead",0.141,1.619996
+"Argus Camera System",0.5726603666,1.645031
+"Bulkhead",0.141,1.699771
+"midsection arc clamp system",0.0976,1.705481
+"Bulkhead",0.141,1.711191
+"Umbilical Internals cameras, battery, board, wires, battery case",0.1956117094,1.736951
+"Bulkhead",0.141,1.790966
+"arc clamp system",0.0976,1.797681
+"Avionics Module (Third)",2.031186633,2.147833
+"Bulkhead",0.141,3.189347
+"avionics guts wooden frame and 3d printed spacer",0.226796185,2.105021
+"Bulkhead",0.1411,3.772309
+"arc clamp system",0.0976,2.409313
+"FG Body (second) Module",1.549471536,2.692298
+"Bulkhead",0.1411,2.423648
+"arc clamp system",0.0976,3.021453
+"threaded rod",0.163,2.587113
+"nuts & washer",0.045359237,2.421813
+"Fin Can Module",3.764363079,3.482037
+"Motor Centering Ring",0.1565881285,3.7820179
+"Trapezoidal fin module",1.147233,3.2617878
+"arc clamp system",0.0976,3.7883298
+"Thrust Flange",0.2703,3.7929248
+"15227N2501-P",13.308,3.30906
